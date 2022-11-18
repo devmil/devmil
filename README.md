@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+🔗 Links
+
+[Blog](https://devmil.de)
+[Mastodon](https://mastodon.social/@devmil)
+[Linkedin](https://www.linkedin.com/in/devmil/)
+[Hackster.io](https://www.hackster.io/devmil)
+[Twitter](https://www.twitter.com/devmil/)
+
 <!--
 **devmil/devmil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +22,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a rel="me" href="https://mastodon.social/@devmil" />
